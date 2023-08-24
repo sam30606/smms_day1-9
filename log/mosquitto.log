@@ -1,0 +1,155 @@
+1692871024: mosquitto version 2.0.17 starting
+1692871024: Config loaded from /mosquitto/config/mosquitto.conf.
+1692871024: Warning: File /mosquitto/config/secret has world readable permissions. Future versions will refuse to load this file.
+1692871024: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1692871024: Create a configuration file which defines a listener to allow remote access.
+1692871024: For more details see https://mosquitto.org/documentation/authentication-methods/
+1692871024: Opening ipv4 listen socket on port 1883.
+1692871024: Opening ipv6 listen socket on port 1883.
+1692871024: Error: Address not available
+1692871024: mosquitto version 2.0.17 running
+1692871111: mosquitto version 2.0.17 terminating
+1692871111: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1692871114: mosquitto version 2.0.17 starting
+1692871114: Config loaded from /mosquitto/config/mosquitto.conf.
+1692871114: Warning: File /mosquitto/config/secret has world readable permissions. Future versions will refuse to load this file.
+1692871114: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1692871114: Create a configuration file which defines a listener to allow remote access.
+1692871114: For more details see https://mosquitto.org/documentation/authentication-methods/
+1692871114: Opening ipv4 listen socket on port 1883.
+1692871114: Opening ipv6 listen socket on port 1883.
+1692871114: Error: Address not available
+1692871114: mosquitto version 2.0.17 running
+1692871420: mosquitto version 2.0.17 terminating
+1692871420: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1692871420: Error saving in-memory database, unable to open /mosquitto/data//mosquitto.db.new for writing.
+1692871420: Error: Permission denied.
+1692871421: mosquitto version 2.0.17 starting
+1692871421: Config loaded from /mosquitto/config/mosquitto.conf.
+1692871421: Warning: File /mosquitto/config/secret has world readable permissions. Future versions will refuse to load this file.
+1692871421: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1692871421: Create a configuration file which defines a listener to allow remote access.
+1692871421: For more details see https://mosquitto.org/documentation/authentication-methods/
+1692871421: Opening ipv4 listen socket on port 1883.
+1692871421: Opening ipv6 listen socket on port 1883.
+1692871421: Error: Address not available
+1692871421: mosquitto version 2.0.17 running
+1692871588: mosquitto version 2.0.17 terminating
+1692871588: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1692871589: mosquitto version 2.0.17 starting
+1692871589: Config loaded from /mosquitto/config/mosquitto.conf.
+1692871589: Warning: File /mosquitto/config/secret has world readable permissions. Future versions will refuse to load this file.
+1692871589: Opening ipv4 listen socket on port 1883.
+1692871589: Opening ipv6 listen socket on port 1883.
+1692871589: mosquitto version 2.0.17 running
+1692871592: New connection from 172.21.0.1:52470 on port 1883.
+1692871592: New client connected from 172.21.0.1:52470 as mqttx_d6e0be3c (p5, c1, k60).
+1692871592: Client mqttx_d6e0be3c closed its connection.
+1692871592: New connection from 172.21.0.1:52476 on port 1883.
+1692871592: New client connected from 172.21.0.1:52476 as mqttx_d6e0be3c (p5, c1, k60).
+1692871592: New connection from 172.21.0.1:52486 on port 1883.
+1692871592: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871592: New client connected from 172.21.0.1:52486 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871592: New connection from 172.21.0.1:52496 on port 1883.
+1692871592: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871592: New client connected from 172.21.0.1:52496 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871594: New connection from 172.21.0.1:52510 on port 1883.
+1692871594: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871594: New client connected from 172.21.0.1:52510 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871595: New connection from 172.21.0.1:52514 on port 1883.
+1692871595: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871595: New client connected from 172.21.0.1:52514 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871595: New connection from 172.21.0.1:52526 on port 1883.
+1692871595: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871595: New client connected from 172.21.0.1:52526 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871595: New connection from 172.21.0.1:52530 on port 1883.
+1692871595: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871595: New client connected from 172.21.0.1:52530 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871596: New connection from 172.21.0.1:52532 on port 1883.
+1692871596: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871596: New client connected from 172.21.0.1:52532 as mqttx_d6e0be3c (p5, c1, k60).
+1692871596: New connection from 172.21.0.1:52540 on port 1883.
+1692871596: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871596: New client connected from 172.21.0.1:52540 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871597: New connection from 172.21.0.1:52554 on port 1883.
+1692871597: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871597: New client connected from 172.21.0.1:52554 as mqttx_d6e0be3c (p5, c1, k60).
+1692871598: New connection from 172.21.0.1:51268 on port 1883.
+1692871598: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871598: New client connected from 172.21.0.1:51268 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871599: New connection from 172.21.0.1:51282 on port 1883.
+1692871599: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871599: New client connected from 172.21.0.1:51282 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871599: New connection from 172.21.0.1:51288 on port 1883.
+1692871599: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871599: New client connected from 172.21.0.1:51288 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871599: New connection from 172.21.0.1:51294 on port 1883.
+1692871599: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871599: New client connected from 172.21.0.1:51294 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871599: New connection from 172.21.0.1:51296 on port 1883.
+1692871599: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871599: New client connected from 172.21.0.1:51296 as mqttx_d6e0be3c (p5, c1, k60).
+1692871600: New connection from 172.21.0.1:51298 on port 1883.
+1692871600: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871600: New client connected from 172.21.0.1:51298 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871600: New connection from 172.21.0.1:51300 on port 1883.
+1692871600: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871600: New client connected from 172.21.0.1:51300 as mqttx_d6e0be3c (p5, c1, k60).
+1692871601: New connection from 172.21.0.1:51310 on port 1883.
+1692871601: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871601: New client connected from 172.21.0.1:51310 as mqttx_d6e0be3c (p5, c1, k60).
+1692871601: New connection from 172.21.0.1:51312 on port 1883.
+1692871601: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871601: New client connected from 172.21.0.1:51312 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871601: New connection from 172.21.0.1:51314 on port 1883.
+1692871601: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871601: New client connected from 172.21.0.1:51314 as mqttx_d6e0be3c (p5, c1, k60).
+1692871603: New connection from 172.21.0.1:51328 on port 1883.
+1692871603: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871603: New client connected from 172.21.0.1:51328 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871603: New connection from 172.21.0.1:51334 on port 1883.
+1692871603: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871603: New client connected from 172.21.0.1:51334 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871603: New connection from 172.21.0.1:51336 on port 1883.
+1692871603: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871603: New client connected from 172.21.0.1:51336 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871603: New connection from 172.21.0.1:51344 on port 1883.
+1692871603: New connection from 172.21.0.1:51358 on port 1883.
+1692871603: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871603: New client connected from 172.21.0.1:51344 as mqttx_d6e0be3c (p5, c1, k60).
+1692871603: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871603: New client connected from 172.21.0.1:51358 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871604: New connection from 172.21.0.1:51364 on port 1883.
+1692871604: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871604: New client connected from 172.21.0.1:51364 as mqttx_d6e0be3c (p5, c1, k60).
+1692871604: New connection from 172.21.0.1:51374 on port 1883.
+1692871604: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871604: New client connected from 172.21.0.1:51374 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871605: New connection from 172.21.0.1:51386 on port 1883.
+1692871605: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871605: New client connected from 172.21.0.1:51386 as mqttx_d6e0be3c (p5, c1, k60).
+1692871605: New connection from 172.21.0.1:51394 on port 1883.
+1692871605: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871605: New client connected from 172.21.0.1:51394 as mqttx_d6e0be3c (p5, c1, k60).
+1692871605: New connection from 172.21.0.1:51404 on port 1883.
+1692871605: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871605: New client connected from 172.21.0.1:51404 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871607: New connection from 172.21.0.1:51408 on port 1883.
+1692871607: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871607: New client connected from 172.21.0.1:51408 as mqttx_d6e0be3c (p5, c1, k60).
+1692871607: New connection from 172.21.0.1:51418 on port 1883.
+1692871607: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871607: New client connected from 172.21.0.1:51418 as mqttx_d6e0be3c (p5, c1, k60).
+1692871607: New connection from 172.21.0.1:51422 on port 1883.
+1692871607: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871607: New client connected from 172.21.0.1:51422 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871607: New connection from 172.21.0.1:51432 on port 1883.
+1692871607: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871607: New client connected from 172.21.0.1:51432 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871607: New connection from 172.21.0.1:51446 on port 1883.
+1692871607: Client mqttx_d6e0be3c already connected, closing old connection.
+1692871607: New client connected from 172.21.0.1:51446 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871608: Client mqttx_d6e0be3c closed its connection.
+1692871627: New connection from 172.21.0.1:36486 on port 1883.
+1692871627: New client connected from 172.21.0.1:36486 as mqttx_d6e0be3c (p5, c1, k60, u'sam').
+1692871630: Client mqttx_d6e0be3c disconnected.
